@@ -35,18 +35,4 @@ To install the UnrealCV Server, you need:
 To install the UnrealCV Client, just run:
 ``pip install unrealcv``
 
-## Citation
 
-If you found this project useful, please consider citing our paper
-
-```bibtex
-@article{qiu2017unrealcv,
-  Author = {Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao,Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille},
-  Journal = {ACM Multimedia Open Source Software Competition},
-  Title = {UnrealCV: Virtual Worlds for Computer Vision},
-  Year = {2017}
-}
-```
-
-## Contact
-If you have any suggestion or interested in using UnrealCV, please [contact us](http://unrealcv.github.io/contact.html).
